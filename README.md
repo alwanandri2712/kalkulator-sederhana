@@ -1,2 +1,4 @@
 # kalkulator-sederhana
 KALKULATOR SEDERHANA PAKE BANGET
+
+PAKE PYTHON 3
